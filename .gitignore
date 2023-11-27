@@ -12,6 +12,11 @@
 # checkpoints
 *saved_checkpoints*
 
+# solver code
+/solver
+
+# torchrl
+/rl
 
 # Hydra
 .hydra/
